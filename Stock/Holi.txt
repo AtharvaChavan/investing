@@ -1,0 +1,15 @@
+Candles near MOVING AVG; Green Candle
+
+
+2	11-Mar-2021	Thursday	Mahashivratri
+3	29-Mar-2021	Monday	Holi
+4	02-Apr-2021	Friday	Good Friday
+5	14-Apr-2021	Wednesday	Dr.Baba Saheb Ambedkar Jayanti
+6	21-Apr-2021	Wednesday	Ram Navami
+7	13-May-2021	Thursday	Id-Ul-Fitr (Ramzan ID)
+8	21-Jul-2021	Wednesday	Bakri Id
+9	19-Aug-2021	Thursday	Moharram
+10	10-Sep-2021	Friday	Ganesh Chaturthi
+11	15-Oct-2021	Friday	Dussehra
+12	05-Nov-2021	Friday	Diwali-Balipratipada
+13	19-Nov-2021	Friday	Gurunanak Jayanti
